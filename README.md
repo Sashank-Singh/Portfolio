@@ -39,10 +39,10 @@ Relevant Coursework:
 - User-centric and distills complex financial data into accessible insights, bolstering strategic investment decision-making.
   
 **Fake News Detection with Machine Learning** (Aug 2024)
-•	Developed a machine learning model utilizing Natural Language Processing (NLP) techniques to detect fake news from a diverse news corpus automatically.
-•	Implemented a Bidirectional Neural Network and Long Short-Term Memory (LSTM) model, enhancing my understanding of deep learning applications in real-world scenarios.
-•	Conducted data preprocessing, including text cleaning and vectorization, to prepare the dataset for model training, resulting in improved accuracy and efficiency in fake news classification.
-•	Gained hands-on experience in applying machine learning algorithms to address critical issues in information credibility and misinformation.
+- Developed a machine learning model utilizing Natural Language Processing (NLP) techniques to detect fake news from a diverse news corpus automatically.
+- Implemented a Bidirectional Neural Network and Long Short-Term Memory (LSTM) model, enhancing my understanding of deep learning applications in real-world scenarios.
+- Conducted data preprocessing, including text cleaning and vectorization, to prepare the dataset for model training, resulting in improved accuracy and efficiency in fake news classification.
+- Gained hands-on experience in applying machine learning algorithms to address critical issues in information credibility and misinformation.
 
 **Real-Time Collaboration Platform** (Dec 2023)
 - Engineered a full-stack real-time collaboration platform using Node.js, Express, and WebSocket, enhancing remote teamwork capabilities.
