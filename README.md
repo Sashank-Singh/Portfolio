@@ -22,6 +22,10 @@ Relevant Coursework:
 - Software Engineering
 - Computer Security
 - Operating Systems
+- Engineering Statistics
+- Linear Algebra
+- Discrete Mathematics 
+
 
 ### Skills
 
