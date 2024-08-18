@@ -28,11 +28,11 @@ Relevant Coursework:
 
 
 ### Skills
-
 **Programming Languages:** Java, Python, HTML/CSS, JavaScript, SQL, .NET, React.js, Redux, Node.js, Express.js
-
-**Development Tools:** VS Code, IntelliJ, PyCharm, Microsoft Office, Google Cloud, Zoom, Webex, Git Version Control, Linux command line, AWS, Data Analysis with pandas, Data Visualization with Plotly and Matplotlib, API Integration for Data Fetching, WebSocket, Scikit-learn, Tableau, Jenkins
-
+**Development Tools:** VS Code, IntelliJ, PyCharm, Microsoft Office, Google Cloud, Zoom, Webex, Git Version Control, Linux Command Line, AWS, Jenkins, Docker
+**Data Analysis & Visualization:** Data Analysis with Pandas, Data Visualization with Plotly, Matplotlib, Scikit-learn, Tableau
+**Machine Learning & Natural Language Processing:** Natural Language Processing (NLP), Bidirectional Neural Networks, Long Short-Term Memory (LSTM) models, Data Preprocessing (text cleaning, tokenization, vectorization), Feature Extraction, Model Evaluation
+**API & Web Technologies:** API Integration for Data Fetching, WebSocket
 **Spoken Languages:** English, Hindi, Hausa
 
 ### Projects
